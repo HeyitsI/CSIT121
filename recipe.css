@@ -1,0 +1,16 @@
+
+body {
+  background-color: skyblue;
+}
+h1 {
+  color: purple; font-family: Arial;text-transform: uppercase;
+}
+h2 {
+  color: purple; font-family: Arial; 
+}
+p {
+  font-family: Georgia,serif ; 
+}
+li {
+  font-family: Georgia,serif; word-spacing: 4pt; 
+}
