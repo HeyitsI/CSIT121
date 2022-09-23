@@ -1,0 +1,21 @@
+
+body {
+  background-image: linear-gradient(to top, darkred, yellow);
+}
+h1 {
+  color: purple; font-family: Arial;text-transform: uppercase;
+}
+h2 {
+  color: purple; font-family: Arial; 
+}
+p {
+  font-family: Georgia,serif ; 
+}
+li {
+  font-family: Georgia,serif; word-spacing: 4pt; 
+}
+#cheese {
+  border-style: solid;
+  border-width: 12px;
+ 
+  }
