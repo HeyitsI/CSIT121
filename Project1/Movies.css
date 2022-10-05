@@ -1,0 +1,46 @@
+body {
+	 background-color:black;
+	
+}
+
+
+h1{
+	color: green;
+}
+.nav{ background-color: #333;
+  overflow: hidden;
+}
+
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+p{
+	color: green;
+	font-family: sans-serif;
+	font-weight: 700;
+	text-align: left;
+	font-size: 20px;
+	word-spacing: 4px;
+
+
+}
+#zom{
+	margin-top: 12px;
+	border-style: solid;
+	border-width: 12px;
+	border-color: green;
+}
+
+img{
+	margin-right: 20px;
+	border-style: solid;
+	border-width: 12px;
+	border-style: double;
+	border-color: green;
+}
